@@ -4,9 +4,7 @@
 
 ### Objetivos
 
-Descubrir las herramientas utilizadas por los diseñadores con los que
-
-interactuaremos, quienes serán los que nos proveerán los bocetos a utilizar.
+Descubrir las herramientas utilizadas por los diseñadores con los que interactuaremos, quienes serán los que nos proveerán los bocetos a utilizar.
 
 Por otra parte, una buena práctica al momento de iniciar un proyecto es ordenar las carpetas que a futuro tendrán diferentes archivos. En este caso, tu meta será ordenar los archivos en las carpetas correspondientes.
 
