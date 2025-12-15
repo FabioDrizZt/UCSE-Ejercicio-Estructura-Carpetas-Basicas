@@ -31,5 +31,5 @@
   "files.trimTrailingWhitespace": true,
   "files.insertFinalNewline": true,
   "explorer.confirmDelete": false,
-  "explorer.confirmDragAndDrop": true
+  "explorer.confirmDragAndDrop": false
 }
