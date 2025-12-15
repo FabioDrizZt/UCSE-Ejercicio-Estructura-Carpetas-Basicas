@@ -18,20 +18,50 @@ Por otra parte, una buena práctica al momento de iniciar un proyecto es ordenar
 
 Este repositorio contiene 4 archivos: un archivo HTML, un archivo CSS y dos imágenes (un SVG y un PNG).
 
-**Para comenzar:**
+## 🔧 Configuración del Repositorio
 
-1. **Opción 1 - Hacer Fork y clonar:**
+Antes de comenzar a trabajar, necesitas obtener una copia del repositorio en tu cuenta de GitHub y luego clonarlo en tu computadora.
 
-   - Haz click en el botón "Fork" en la parte superior de este repositorio
-   - Luego clona tu fork:
+### Paso 1: Hacer Fork del Repositorio
 
-   ```bash
-   git clone https://github.com/TU-USUARIO/UCSE-Ejercicio-Estructura-Carpetas-Basicas.git
-   ```
+1. Ve al repositorio del ejercicio: [UCSE-Ejercicio-Estructura-Carpetas-Basicas](https://github.com/FabioDrizZt/UCSE-Ejercicio-Estructura-Carpetas-Basicas)
+2. Haz clic en el botón **"Fork"** que se encuentra en la esquina superior derecha de la página
+3. Selecciona tu cuenta de GitHub como destino del fork
+4. Espera a que GitHub cree la copia del repositorio en tu cuenta
 
-2. **Opción 2 - Descargar como ZIP:**
-   - Haz click en el botón verde "Code" → "Download ZIP"
-   - Descomprime el archivo en tu carpeta de trabajo
+> **¿Qué es un Fork?** Un fork es una copia del repositorio original en tu propia cuenta de GitHub. Esto te permite trabajar en tu propia versión sin afectar el repositorio original.
+
+### Paso 2: Clonar el Repositorio
+
+Una vez que tengas el fork en tu cuenta, clónalo en tu computadora:
+
+1. Ve a tu repositorio forkeado (debería estar en `https://github.com/TU-USUARIO/UCSE-Ejercicio-Estructura-Carpetas-Basicas`)
+2. Haz clic en el botón verde **"Code"** (Código)
+3. Copia la URL que aparece (puede ser HTTPS o SSH)
+4. Abre tu terminal o Git Bash en la ubicación donde quieres guardar el proyecto
+5. Ejecuta el siguiente comando (reemplaza `TU-USUARIO` con tu nombre de usuario de GitHub):
+
+```bash
+git clone https://github.com/TU-USUARIO/UCSE-Ejercicio-Estructura-Carpetas-Basicas.git
+```
+
+6. Navega a la carpeta del proyecto:
+
+```bash
+cd UCSE-Ejercicio-Estructura-Carpetas-Basicas
+```
+
+### 💡 Tips para Git (Primera vez)
+
+Si es tu primera vez usando Git y GitHub:
+
+- **Git:** Es un sistema de control de versiones que te permite guardar el historial de cambios en tu código
+- **GitHub:** Es una plataforma web que aloja repositorios Git
+- **Fork:** Crear una copia de un repositorio en tu cuenta
+- **Clone:** Descargar una copia del repositorio a tu computadora local
+- **Terminal/Git Bash:** Herramienta de línea de comandos donde ejecutas los comandos de Git
+
+> **Nota:** Si no tienes Git instalado, puedes descargarlo desde [git-scm.com](https://git-scm.com/). También puedes usar GitHub Desktop como alternativa gráfica.
 
 **Nota sobre la carpeta `.vscode`:**
 
